@@ -1,5 +1,7 @@
 # iot_device_anomaly_detection_for_disaster(sql)
 
+
+
 ### 1)How many devices of each type are installed per room?
      SELECT 
     room, type, COUNT(*)
