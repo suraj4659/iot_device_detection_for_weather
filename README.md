@@ -118,7 +118,22 @@
           AND value < 10)
     GROUP BY 1
 
+## 🧠 Conclusion: Turning Device Anomalies into Actionable Insights
+The analysis highlights a strong link between environmental anomalies and potential disaster events, with specific patterns in brightness, temperature, and sensor activity acting as early indicators. Key device types such as thermostats and noise sensors often report critical issues before disasters occur, enabling proactive detection.
 
+To improve disaster preparedness and operational efficiency:
+
+Automated alerts for low brightness and rising temperature can flag power issues or heat stress.
+
+Recalibrating anomaly thresholds and investigating frequent anomaly sources can enhance detection accuracy.
+
+Predictive models trained on pre-disaster patterns can enable early-warning systems.
+
+Cross-sensor risk scoring helps triage disaster impact and prioritize response.
+
+Devices with frequent abnormal spikes should be targeted for calibration and closer monitoring, identifying potential failure points or high-risk zones.
+
+By combining these insights, organizations can shift from reactive disaster management to a data-driven, proactive prevention strategy, increasing safety, reliability, and system resilience.
 
 
 
