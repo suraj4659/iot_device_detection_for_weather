@@ -1,4 +1,4 @@
-# iot_device_detection_for_weather
+# iot_device_anomaly_detection_for_disaster
 
 ### 1)How many devices of each type are installed per room?
      SELECT 
